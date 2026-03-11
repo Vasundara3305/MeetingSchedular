@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Scheduler",
+  "description": "A full-stack application to book and manage meetings with title, date, time, and description.",
+  "requestFramePermissions": []
+}
